@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "safe",
+    "warning",
+    "off_track"
+  ],
+  "img_size": [
+    128,
+    128
+  ]
+}
